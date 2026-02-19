@@ -40,7 +40,7 @@ if not TOKEN or TOKEN == "8383723404:AAEnlYHXd5ijRDXnprKDtooENGcr8uto74Y": # Che
     TOKEN = "8383723404:AAEnlYHXd5ijRDXnprKDtooENGcr8uto74Y" # FALLBACK - Highly recommended to use .env
 
 # Optional: API Configuration
-API_BASE_URL = os.getenv('JWT_API_URL', 'https://xanf-jwt-tocken-api.vercel.app/token')#ƊƠƝƬ ƇӇƛƝƓЄ ƠƬӇЄƦƜƖƧЄ ЄƦƦƠƦ
+API_BASE_URL = os.getenv('JWT_API_URL', 'jwt-get-mg24-pro.vercel.app/token')#ƊƠƝƬ ƇӇƛƝƓЄ ƠƬӇЄƦƜƖƧЄ ЄƦƦƠƦ
 API_KEY = os.getenv('JWT_API_KEY', '@XAHAF_LEGACY')
 
 # Optional: Bot Settings
