@@ -1,4 +1,4 @@
-/# (DPX_ARMY_FF_01) Thank you from me to the haters
+# (DPX_ARMY_FF_01) Thank you from me to the haters
 import os
 import json
 import aiohttp
